@@ -9,7 +9,23 @@ A full-stack task management application built with:
 ## 🚀 How to run
 
 ### Backend
-```bash
+```
 cd backend
 npm install
 npm run dev
+```
+
+Frontend
+```
+cd frontend
+npm install
+npm start
+```
+💡 Features
+Create, complete, delete tasks
+
+Responsive clean UI
+
+API connected via REST
+git commit -m "Add project README 📘"
+git push
